@@ -42,7 +42,7 @@
     "ng2-semantic-ui": "github:project-sunbird/ng2-semantic-ui",
     "ngx-infinite-scroll": "^6.0.0",
     "rxjs": "~6.3.3",
-    "svg2img": "^0.6.1",
+    "svg2img": "^1.0.0-beta.2",
     "tslib": "^1.9.0",
     "v-dynamic-forms": "0.0.1-beta.19",
     "zone.js": "~0.8.26"
